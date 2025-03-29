@@ -30,7 +30,7 @@ It offers the following features:
 -   [ark-zkey](https://github.com/zkmopro/ark-zkey): Compresses and decompresses zkey files for Arkworks.
 -   [witnesscalc_adapter](https://github.com/zkmopro/witnesscalc_adapter): A Rust wrapper for [witnesscalc](https://github.com/0xPolygonID/witnesscalc).
 -   [rust-rapidsnark](https://github.com/zkmopro/rust-rapidsnark): A Rust wrapper for [Rapidsnark](https://github.com/iden3/rapidsnark).
--   [circom-prover](https://github.com/zkmopro/mopro/tree/main/circom-prover) (WIP): A high-performance Rust-based Circom prover with seamless cross-platform support.
+-   [circom-prover](https://github.com/zkmopro/mopro/tree/main/circom-prover): A high-performance Rust-based Circom prover with seamless cross-platform support.
 
 ## Research
 
