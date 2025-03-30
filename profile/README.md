@@ -22,7 +22,7 @@ It offers the following features:
 -   💡 Projects you can build: https://zkmopro.org/docs/projects
 -   🎥 Demo App: https://github.com/zkmopro/android-benchmark-app
 -   🏎️ Benchmark: https://zkmopro.org/docs/performance
--   💬 Community and Talks: https://zkmopro.org/community
+-   💬 Community and Talks: https://zkmopro.org/docs/community
 -   📰 Blog: https://zkmopro.org/blog
 
 ## What we also offer
