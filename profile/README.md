@@ -27,10 +27,34 @@ It offers the following features:
 
 ## What we also offer
 
--   [ark-zkey](https://github.com/zkmopro/ark-zkey): Compresses and decompresses zkey files for Arkworks.
+### Circom
+
+-   [circom-witnesscalc](https://github.com/zkmopro/circom-witnesscalc): A fork of [circom-witnesscalc](https://github.com/iden3/circom-witnesscalc)
 -   [witnesscalc_adapter](https://github.com/zkmopro/witnesscalc_adapter): A Rust wrapper for [witnesscalc](https://github.com/0xPolygonID/witnesscalc).
+-   [rust-witness](https://github.com/chancehudson/rust-witness): Alternative implementation of witness generation.
 -   [rust-rapidsnark](https://github.com/zkmopro/rust-rapidsnark): A Rust wrapper for [Rapidsnark](https://github.com/iden3/rapidsnark).
+-   [ark-zkey](https://github.com/zkmopro/ark-zkey): Compresses and decompresses zkey files for Arkworks.
 -   [circom-prover](https://github.com/zkmopro/mopro/tree/main/circom-prover): A high-performance Rust-based Circom prover with seamless cross-platform support.
+
+### Noir
+
+-   [noir-rs](https://github.com/zkmopro/noir-rs): Rust wrapper for Noir circuits integration.
+-   [Pre-built barretenberg libraries](https://bb.zkmopro.org/): Pre-built binaries: `https://bb.zkmopro.org/bb-<target>.tar.gz`
+
+### Mopro Bindings for Multiplatform
+
+-   [mopro-kotlin-package](https://github.com/zkmopro/mopro-kotlin-package): Kotlin bindings for Android.
+-   [mopro-swift-package](https://github.com/zkmopro/mopro-swift-package): Swift bindings for iOS.
+-   [mopro-react-native-package](https://github.com/zkmopro/mopro-react-native-package): A React Native wrapper.
+-   [mopro_flutter_package](https://github.com/zkmopro/mopro_flutter_package): Flutter bindings for Dart-based apps.
+
+### Mopro Bindings for zkEmail
+
+-   [zkemail-swift-package](https://github.com/zkmopro/zkemail-swift-package): Swift bindings for zkEmail verifier.
+-   [zkemail-kotlin-package](https://github.com/zkmopro/zkemail-kotlin-package): Kotlin bindings for zkEmail verifier.
+-   [zkemail-react-native-package](https://github.com/zkmopro/zkemail-react-native-package): A React Native wrapper for zkEmail.
+-   [zkemail_flutter_package](https://github.com/zkmopro/zkemail_flutter_package): Flutter bindings for zkEmail.
+
 
 ## Research
 
